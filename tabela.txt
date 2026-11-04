@@ -1,0 +1,20 @@
+Resposta do exercício
+Tabela com o cenário de escalonamento criado, seguindo o seguinte modelo de tabela:
+
+Ordem de Execução	T1	T2
+1		
+Resultado		
+Observação		
+2		
+Resultado		
+Observação		
+3		
+Resultado		
+4		
+Observação		
+Resultado		
+5		
+Resultado		
+Observação		
+...		
+
